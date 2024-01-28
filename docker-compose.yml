@@ -1,0 +1,6 @@
+version: '3.9'
+services:
+  le-rustique:
+    image: anssi/fcsc2020-misc-le-rustique:latest
+    ports:
+      - "80:8000"
