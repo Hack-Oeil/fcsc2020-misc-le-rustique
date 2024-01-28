@@ -8,16 +8,10 @@ Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
 Origine : [Le Rustique](https://hackropole.fr/fr/challenges/misc/fcsc2020-misc-le-rustique/)
 
 
-## Connectez vous en WEBSSH
+## Connectez vous 
 > http://localhost
 
 
------------
-
-## Ou directement 
-> nc localhost:22
-
------------
 
 ## Installation manuel
 Vous n'utilisez pas l'application **les CTFs de Cyrhades** ? C'est dommage !
